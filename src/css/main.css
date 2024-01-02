@@ -24,6 +24,7 @@
 #input-age {
   width: 50%;
 }
+
 .age-label {
   margin-left: -48px;
 }
@@ -54,3 +55,5 @@ input::placeholder {
   text-decoration: underline;
   font-size: 12px;
 }
+
+/*# sourceMappingURL=main.css.map */
